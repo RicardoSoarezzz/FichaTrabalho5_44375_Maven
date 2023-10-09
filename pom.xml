@@ -27,7 +27,6 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <mainClass>org.example.Main</mainClass>
-                            <!-- Replace with your main class -->
                         </manifest>
                     </archive>
                 </configuration>
